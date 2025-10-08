@@ -1,51 +1,68 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Objetivos
+Explorar IAs Generativas: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+Potfólio de Projetos:
+Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
+Edite seu README com os detalhes do seu projeto, siga nosso Template (é só copiar, colar e preencher);
+Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
+Efeito de Rede: Compartilhe seus resultados nas redes sociais com a hashtag #LabDIONattyOrNot. Não esqueça de nos marcar: DIO e falvojr.
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🧠 Projeto Principal: IA Generativa em Movimento – Três Formas de Aprender, Criar e Inspirar
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto reúne três produções criativas — um e-book, um podcast e um vídeo com avatar — todos voltados para explicar e explorar o universo das inteligências 
+artificiais generativas. A proposta é apresentar o tema de forma acessível, dinâmica e multimodal, conectando informação, tecnologia e narrativa em formatos distintos 
+que se complementam.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Copilot**: roteirização, estrutura narrativa e revisão dos conteúdos
+- **Bing Image Creator**: Geração de imagens realistas
+- **Descript**: edição de áudio e montagem do podcast
+- **HeyGen**: criação de avatar virtual com voz sintetizada (vídeo)
+- **CapCut**: edição e exportação do vídeo
+- **Pixabay Music**: trilha sonora livre de direitos autorais
+- **Microsoft PowerPoint**: design visual do e-book e materiais complementares
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **E-book**: estruturado com base em pesquisa e roteirização colaborativa com IA, diagramado com foco em clareza e estética.
+2. **Podcast**: roteiro narrativo criado com Copilot, narração com voz própria e edição profissional no Descript.
+3. **Vídeo com avatar**: texto impactante de 60 segundos, avatar gerado no HeyGen e edição final com trilha sonora e efeitos visuais no CapCut.
+
+Cada etapa foi guiada por uma combinação de criatividade humana e inteligência artificial, com foco em acessibilidade, impacto e qualidade.
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Um e-book informativo e visualmente atrativo sobre IAs generativas
+- Um podcast envolvente com narração clara e trilha sonora profissional
+- Um vídeo curto e impactante com avatar futurista e narrativa direta
+- Conteúdos prontos para publicação em plataformas digitais, redes sociais e apresentações
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+## 🔗 Acesse os conteúdos
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- 📘 [LINK PARA O E-BOOK AQUI](E-BOOK/E-book-O%20Mundo%20das%20IAs%20generativas.pdf)
+- 🎙️ [LINK PARA O PODCAST AQUI](PODCAST/Podcast%20Inteligência%20Artificial%20Generativa%20em%20Apenas%20Cinco%20Minutos.mp3)
+- 📺 [LINK PARA O VÍDEO AQUI](VÍDEO/IAs%20Generativas%20De%20Laboratórios%20ao%20Seu%20Dia%20a%20Dia.mp4)
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+---
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Criar algo ‘natty’ com IA é mais do que usar ferramentas — é saber como combiná-las com propósito, sensibilidade e visão. O maior desafio foi transformar ideias 
+complexas em formatos simples, sem perder profundidade. A IA foi parceira, não substituta. E o resultado mostra que quando tecnologia e criatividade se encontram, o 
+impacto é real.
+
+---
+
+**Autor:** Daniel  
+**Local:** Paulista – PE, Brasil  
+**Data:** Outubro de 2025
